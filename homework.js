@@ -43,7 +43,7 @@ function isEven(number){
 // Fahrenheit temperature as an argument and returns the
 // temperature in Celsius.
 function fahrenheitToCelsius(fahrenheit) {
-    var celsius = (fahrenheit - 32) * 9/5;
+    var celsius = (fahrenheit - 32) * 5/9;
     return celsius;
 }
 // 6. Create a function called celsiusToFahrenheit that takes a
